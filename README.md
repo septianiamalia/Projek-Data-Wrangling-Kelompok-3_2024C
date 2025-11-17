@@ -1,1 +1,8 @@
 # Projek-Data-Wrangling-Kelompok-3_2024C
+
+## ANALISIS PENGARUH FAKTOR DEMOGRAFIS TERHADAP TINGKAT PENGANGGURAN TERBUKA (TPT) DI INDONESIA
+
+## Kelompok 3
+1. Darista Wardhani (24031554146)      
+2. Septiani Amalia Wulandari (1314623069)
+
